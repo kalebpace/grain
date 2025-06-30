@@ -45,3 +45,6 @@ cli/bin/grainlsp.exe
 cli/bin/grainlsp.bc.js
 
 .DS_Store
+
+# nix
+result
